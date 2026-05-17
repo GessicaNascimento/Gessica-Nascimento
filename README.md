@@ -23,7 +23,7 @@ Currently, I develop academic and personal projects involving automation, data p
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. [TechStore: Sales Automation & Data Pipeline](https://github.com/GessicaNascimento/techstore-sales-automation)
 * **Description:** An analytical data pipeline that automates the ingestion of large datasets, generates structured tabular matrices via Pandas, renders statistical charts with Matplotlib, and exports multi-sheet executive reports to Excel.
@@ -32,10 +32,16 @@ Currently, I develop academic and personal projects involving automation, data p
 
 ---
 
-## 📈 Current Learning Goals
-* Deepening knowledge in Advanced Data Structures and Algorithm Complexity (Big O Notation).
-* Software Architecture Patterns (Monoliths vs. Microservices).
-* Continuous Integration (CI) and team-based version control best practices.
+## ## Cognitive Directives & Research Foundations
+
+My current development cycle and future projects are architected around the following structural pillars, focusing on research, deep learning, and advanced system design:
+
+* **Mathematical Modeling & Algorithms:** Designing rigorous mathematical models and discrete structures to optimize algorithmic efficiency and predict system behavior.
+* **Complex Systems & Architecture:** Analyzing systemic dynamics, scalability, and emergent behaviors in large-scale software architectures and distributed systems.
+* **Quantum Computing & AI Security:** Investigating the intersection of Quantum Computing paradigms and Artificial Intelligence, with a core focus on **Security Architecture in the Quantum Era** (Post-Quantum Cryptography and resilient system design).
+* **High-Performance Data Analysis:** Utilizing data science pipelines (Python/Pandas/NumPy) as the empirical baseline to benchmark, validate, and audit complex systems.
+
+*Note: These fields represent my active research tracks and cognitive direction, serving as the foundational blueprint for my next-generation systems and academic projects.*
 
 ---
 
