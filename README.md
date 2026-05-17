@@ -39,4 +39,4 @@ Currently, I develop academic and personal projects involving automation, data p
 
 ---
 
-📫 **How to reach me:** www.linkedin.com/in/ | gessicamontriz@gmail.com
+📫 **How to reach me:** www.linkedin.com/in/ | gessnascimento@hotmail.com
