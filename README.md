@@ -37,13 +37,15 @@ An analytics-driven approach focused on building structured environment isolatio
 
 ## ## Cognitive Directives & Research Foundations
 
-My current development cycle and future projects are architected around the following structural pillars, focusing on research, deep learning, and advanced system design:
+My technical development and academic roadmap are anchored in **Computational Cognitive Science**—exploring the intersection of mathematical philosophy, cognitive patterns, and advanced system architecture.
 
-* **Mathematical Modeling & Algorithms:** Designing rigorous mathematical models and discrete structures to optimize algorithmic efficiency and predict system behavior.
-* **Complex Systems & Architecture:** Analyzing systemic dynamics, scalability, and emergent behaviors in large-scale software architectures and distributed systems.
-* **Quantum Computing & AI Security:** Investigating the intersection of Quantum Computing paradigms and Artificial Intelligence, with a core focus on **Security Architecture in the Quantum Era** (Post-Quantum Cryptography and resilient system design).
-* **High-Performance Data Analysis:** Utilizing data science pipelines (Python/Pandas/NumPy) as the empirical baseline to benchmark, validate, and audit complex systems.
+### 🎯 Active Study Tracks & Current Focus
+* **Cognitive Modeling & Mathematical Philosophy:** Deepening structural studies in cognition and the foundations of mathematics, currently structuring comprehensive research drafts on both subjects.
+* **Empirical Data Analysis:** Utilizing data science pipelines (Python/Pandas/NumPy) as the practical framework to analyze, model, and benchmark logical patterns.
 
+### 🔭 Future Research & Technological Horizon
+* **Undergraduate Research Fellowship (Target):** Preparing to enter formal academic research (Iniciação Científica) focusing on the mathematical modeling of cognitive processes.
+* **Quantum Computing & Systems Architecture:** Long-term vector targeted at **Quantum Computing paradigms, Quantum Languages**, and complex system security in the post-quantum era.
 *Note: These fields represent my active research tracks and cognitive direction, serving as the foundational blueprint for my next-generation systems and academic projects.*
 
 ---
