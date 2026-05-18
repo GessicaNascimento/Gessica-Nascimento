@@ -15,17 +15,20 @@ Currently, I develop academic and personal projects involving automation, data p
 
 ---
 
-## 2. Tech Stack & Tools
-* **Languages:** Python, JavaScript
-* **Data Analysis:** Pandas, NumPy, Matplotlib
-* **Tools & Environments:** Git, GitHub, VS Code, Virtual Environments (venv), Docker, DBeaver, Paycharm 
-* **Databases:** SQLite integration and relational database structures
+An analytics-driven approach focused on building structured environment isolation, pipeline tracking, and robust software architectures.
+
+### 2. Core Stack & Environments (Current Projects)
+* **Languages & Automation:** Python (Pandas, NumPy, Matplotlib, OpenPyXL)
+* **Version Control & Deploy:** Git, GitHub, GitHub Desktop
+* **Environments & Editors:** Virtual Environments (venv), VS Code, PyCharm
 
 ---
-
+### 3. Target Stack & Infrastructure (Active Transition & Future Systems)
+* **System Programming & Rigor:** Java, C (Focus on memory management, object-oriented principles, and low-level logic)
+* **Data Infrastructure & Tooling:** Docker (Containerization for microservices), DBeaver (Advanced SQL querying and database modeling)
 ## Featured Projects
 
-### 1. [TechStore: Sales Automation & Data Pipeline](https://github.com/GessicaNascimento/techstore-sales-automation)
+### 4. [TechStore: Sales Automation & Data Pipeline](https://github.com/GessicaNascimento/techstore-sales-automation)
 * **Description:** An analytical data pipeline that automates the ingestion of large datasets, generates structured tabular matrices via Pandas, renders statistical charts with Matplotlib, and exports multi-sheet executive reports to Excel.
 * **Technologies:** Python, Pandas, Matplotlib, OpenPyXL.
 * **Key Takeaways:** Demonstrates proficiency in exception handling, file system operations, environment isolation, and the delivery of business-oriented executive reports.
