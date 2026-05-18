@@ -46,6 +46,7 @@ My technical development and academic roadmap are anchored in **Computational Co
 ### 🔭 Future Research & Technological Horizon
 * **Undergraduate Research Fellowship (Target):** Preparing to enter formal academic research (Iniciação Científica) focusing on the mathematical modeling of cognitive processes.
 * **Quantum Computing & Systems Architecture:** Long-term vector targeted at **Quantum Computing paradigms, Quantum Languages**, and complex system security in the post-quantum era.
+
 *Note: These fields represent my active research tracks and cognitive direction, serving as the foundational blueprint for my next-generation systems and academic projects.*
 
 ---
