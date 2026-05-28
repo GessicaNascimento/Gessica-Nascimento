@@ -22,7 +22,7 @@ I am particularly interested in understanding how structured systems — technic
 
 ---
 
-# 🛠️ Technologies & Tools
+# Technologies & Tools
 
 ### Languages & Data
 
